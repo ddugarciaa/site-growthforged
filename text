@@ -1,0 +1,15 @@
+growth-forged-tech/
+│
+├── index.html
+├── solutions.html
+├── contact.html
+├── css/
+│   ├── styles.css
+│   └── animations.css
+├── js/
+│   └── scripts.js
+├── assets/
+│   ├── img/
+│   │   └── logo-growth-forged.png
+│   └── icons/
+└── README.md
